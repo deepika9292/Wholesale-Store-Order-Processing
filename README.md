@@ -1,4 +1,4 @@
-# Wholesale-Store-Order-Processing
+# Wholesale-Store-Order-Processing using Alteryx
 
 
 1. Update the Existing Data Warehouse Orders table with the latest POS orders, placed in August 2021.
